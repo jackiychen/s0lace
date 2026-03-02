@@ -82,6 +82,14 @@ window.LOADER_MESSAGES = [
   "i made this to play games in class and watch tiktok",
   "10k users after a month of this site",
   "DONT BE DUMB",
+"s0lace went gg's",
+"s0lace got killed",
+"aurababy x s0lace site out now",
+"astriex is the new s0lace",
+"i stop updating cus i was burnt out",
+"expect no updates ever again",
+"rip s0lace nov 2025 - feb 2026",
+"cant wait for no more fees on new site",
   "fixed tv shows now",
   "gta vice city out now",
   "i bet fortnite is broken",
@@ -91,6 +99,5 @@ window.LOADER_MESSAGES = [
   "go do work bro",
   "should i make a discord?",
   "byod is really confusing",
-  "365 movies in 365 days im good so far",
-  "i have a looney tunes bump on my head"
+  "365 movies in 365 days im good so far"
   ];
