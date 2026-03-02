@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for s0lace on 2026-02-01T06:45:16Z
+# fly.toml app configuration file generated for s0lacewontdie on 2026-03-02T04:12:04Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'cantkills0lace'
+app = 's0lacewontdie'
 primary_region = 'iad'
 
 [build]
