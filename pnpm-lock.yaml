@@ -1035,7 +1035,7 @@ snapshots:
       '@mercuryworkshop/bare-mux': 2.1.7
       '@shipgirl/typedoc-plugin-versions': 0.3.2(typedoc@0.28.13(typescript@5.9.2))
       '@stephansama/catppuccin-typedoc': 1.0.1
-      dom-serializer: 2.0.0
+      dom-serializer: 1.1.0
       domhandler: 5.0.3
       domutils: 3.2.2
       htmlparser2: 10.0.0
