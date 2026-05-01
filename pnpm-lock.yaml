@@ -18,8 +18,8 @@ importers:
         specifier: ^2.1.28
         version: 2.1.28
       '@mercuryworkshop/scramjet':
-        specifier: https://github.com/MercuryWorkshop/scramjet/releases/download/latest/mercuryworkshop-scramjet-1.1.0.tgz
-        version: https://github.com/MercuryWorkshop/scramjet/releases/download/latest/mercuryworkshop-scramjet-1.1.0.tgz(typescript@5.9.2)
+        specifier: https://github.com/MercuryWorkshop/scramjet/releases/download/v1.1.0/mercuryworkshop-scramjet-1.1.0.tgz
+        version: https://github.com/MercuryWorkshop/scramjet/releases/download/v1.1.0/mercuryworkshop-scramjet-1.1.0.tgz(typescript@5.9.2)
       '@mercuryworkshop/wisp-js':
         specifier: ^0.3.3
         version: 0.3.3(utf-8-validate@6.0.4)
@@ -152,8 +152,8 @@ packages:
   '@mercuryworkshop/epoxy-transport@2.1.28':
     resolution: {integrity: sha512-lv/Kfdn37y8ZCXQaIT3Ebj4OSztBqeXdbR9rchbHQBKIw/fNSQJLGNBHV5ScXSzqt7NCwv8ZiZx7urRyk7Ua/Q==}
 
-  '@mercuryworkshop/scramjet@https://github.com/MercuryWorkshop/scramjet/releases/download/latest/mercuryworkshop-scramjet-1.1.0.tgz':
-    resolution: {tarball: https://github.com/MercuryWorkshop/scramjet/releases/download/latest/mercuryworkshop-scramjet-1.1.0.tgz}
+  '@mercuryworkshop/scramjet@https://github.com/MercuryWorkshop/scramjet/releases/download/v1.1.0/mercuryworkshop-scramjet-1.1.0.tgz':
+    resolution: {tarball: https://github.com/MercuryWorkshop/scramjet/releases/download/v1.1.0/mercuryworkshop-scramjet-1.1.0.tgz}
     version: 2.0.0-alpha
 
   '@mercuryworkshop/wisp-js@0.3.3':
@@ -1028,7 +1028,7 @@ snapshots:
     dependencies:
       '@mercuryworkshop/epoxy-tls': 2.1.18-1
 
-  '@mercuryworkshop/scramjet@https://github.com/MercuryWorkshop/scramjet/releases/download/latest/mercuryworkshop-scramjet-1.1.0.tgz(typescript@5.9.2)':
+  '@mercuryworkshop/scramjet@https://github.com/MercuryWorkshop/scramjet/releases/download/v1.1.0/mercuryworkshop-scramjet-1.1.0.tgz(typescript@5.9.2)':
     dependencies:
       '@catppuccin/vscode': 3.18.0
       '@giancosta86/typedoc-readonly': 1.0.1(typedoc@0.28.13(typescript@5.9.2))
