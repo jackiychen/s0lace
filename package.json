@@ -1,6 +1,6 @@
 {
 	"name": "scramjet-demo",
-	"version": "2.0.0",
+	"version": "1.1.0",
 	"description": "The demo application for Scramjet, a high-performance web proxy.",
 	"type": "module",
 	"engines": {
